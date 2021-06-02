@@ -1,0 +1,166 @@
+/* This is the navigation */
+
+.topnav {
+  background-color: rgb(137, 72, 30);
+  width: 100%;
+  text-align: center;
+  position: float;
+  top: 0;
+  height: 35px;
+  padding-top:5px;
+  margin-top: -10px;
+}
+
+.topnav a {
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  margin-bottom: 50px;
+  
+}
+
+.topnav a:hover {
+  background-color: white;
+  color:  #f1cb9a;
+}
+
+/* the content */
+
+.banner {
+	color:#89481e;
+	font-size: 16px;
+	border-left: solid;
+}
+
+.bottom-border {
+	border-bottom: 1px solid black;
+}
+
+h3 {font-family: 'Lobster', cursive;
+}
+
+h1 { text-align: center;
+} 
+
+.border{
+	border-radius: 50%; 
+}
+
+.h3-skin { 
+color: DarkOliveGreen;
+}
+
+
+.h3-hair{
+	color:DarkGoldenRod;
+}
+	
+	
+.top-background {
+	background-color: #ca9462;
+}
+
+.body-color{
+	background-color: #f1cb9a;
+	}
+
+.inpage-nav {
+	color: black;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+#inpage-nav {
+		color: white;
+		text-decoration: none;
+		font-size: 16px;
+}
+
+.fab {
+	font-size: 30px;
+	color: white;
+}
+
+
+.font {
+	color: black;
+}
+.roboto {
+	font-family: 'Roboto Slab', serif;
+	font-size: 15px;
+}
+
+.script{
+	font-family: 'Dancing Script', cursive; 
+	font-size: 30px;
+}
+
+.fas {
+	color: white; 
+	font-size: 25px;
+}	
+
+.image {
+	border-radius: 50%;
+	text-align: center;
+}
+
+.text {
+	font-size: 18px;
+}
+
+button{
+	border-radius: 4px;
+}
+
+form {
+background-color: Peru; 
+border: solid;
+border-width: 2px; 
+border-radius: 8px; 
+width: 400px;
+margin-left: 5px;
+padding: 5px;
+}
+
+.side {
+	display: flex; 
+	align-items: center; 
+	justify-content: center;
+}
+
+.margin{
+	margin-left: 10px;	
+}
+
+.columns {
+	columns: 2 auto;
+}
+
+.flex {
+	display: flex;	
+}
+
+.footer-columns {
+	display: inline-block;
+	margin-left: 30px;
+	color: black;
+}
+
+.footer-section {
+	background-color: #ca9462;
+}
+	
+	
+/* footer */
+
+footer {
+	position: float;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(137, 72, 30);
+    color: white;
+    text-align: center;
+}
+
