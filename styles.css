@@ -1,56 +1,37 @@
 /* This is the navigation */
 
 .topnav {
-  background-color: rgb(137, 72, 30);
+  background-color: white;
   width: 100%;
   text-align: center;
   position: float;
   top: 0;
-  height: 35px;
-  padding-top:5px;
+  height: 42px;
+  padding-top: 12px;
   margin-top: -10px;
 }
 
 .topnav a {
-  color: white;
+  color: black;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 20px;
+  font-family: 'Vollkorn', serif;
   margin-bottom: 50px;
-  
 }
 
 .topnav a:hover {
-  background-color: white;
-  color:  #f1cb9a;
+  color:  #ca9462;
 }
+
 
 /* the content */
-
-.banner {
-	color:#89481e;
-	font-size: 16px;
-	border-left: solid;
+.horizontal {
+	width: 80%;
 }
-
-.bottom-border {
-	border-bottom: 1px solid black;
+.opacity {
+	opacity: 0.8;
 }
-
-h3 {font-family: 'Lobster', cursive;
-}
-
-h1 { text-align: center;
-} 
-
-.border{
-	border-radius: 50%; 
-}
-
-.h3-skin { 
-color: DarkOliveGreen;
-}
-
 
 .h3-hair{
 	color:DarkGoldenRod;
@@ -58,12 +39,44 @@ color: DarkOliveGreen;
 	
 	
 .top-background {
-	background-color: #ca9462;
+	background-color: #eab27e;
 }
 
 .body-color{
-	background-color: #f1cb9a;
+	background-color: #f7ddbe;
 	}
+
+.center {
+	text-align: center;
+}
+
+.side {
+	display: flex; 
+	align-items: center; 
+	justify-content: center;
+}
+
+.margin{
+	margin-left: 5px;	
+}
+
+.columns {
+	columns: 2 auto;
+}
+
+.flex {
+	display: flex;	
+}
+
+figcaption{
+	text-align: center;
+}
+
+.bottom-text {
+	text-align: left;
+	margin: 15px; 
+	line-height: 1.6;
+}
 
 .inpage-nav {
 	color: black;
@@ -77,69 +90,181 @@ color: DarkOliveGreen;
 		font-size: 16px;
 }
 
+.picture {
+	background-color: black;
+}
+
+.border{
+	border-radius: 50%; 
+}
+
+.border-icons {
+border: 2px solid grey;
+width: 80%;
+height: 200px;
+marging-left: 10px;
+}
+
+.h3-skin { 
+color: DarkOliveGreen;
+}
+
+.plant-font{
+	font-size: 50px;
+}
+
+
+
+/* welcome text */
+.banner {
+	color:#89481e;
+	font-size: 16px;
+	border-left: solid;
+}
+
+
+/* Icons */
+
 .fab {
-	font-size: 30px;
-	color: white;
-}
-
-
-.font {
-	color: black;
-}
-.roboto {
-	font-family: 'Roboto Slab', serif;
-	font-size: 15px;
-}
-
-.script{
-	font-family: 'Dancing Script', cursive; 
-	font-size: 30px;
+font-size: 25px;
+color: black;
 }
 
 .fas {
-	color: white; 
-	font-size: 25px;
-}	
+	font-size: 30px;
+	color: white;
+}
 
 .image {
 	border-radius: 50%;
 	text-align: center;
 }
 
-.text {
-	font-size: 18px;
+
+
+h4 {
+	font-size: 14px;
+	text-align: center;
 }
 
-button{
-	border-radius: 4px;
+/* Fonts */
+
+.cantata {
+	font-family: 'Cantata One', serif;
 }
 
+h1 {
+	font-family: 'Prata', serif;
+	text-align: center;
+}
+
+figcaption {
+	font-family: 'Vollkorn', serif;
+}
+
+
+h2 {
+	font-family: 'Vollkorn', serif;
+}
+
+p {
+	font-family: 'DM Sans', sans-serif;
+}
+
+h4 {
+	font-family: 'DM Sans', sans-serif;
+}
+.font {
+	color: black;
+}
+
+li {
+	font-family: 'DM Sans', sans-serif;
+}
+
+
+.script{
+	font-family: 'Dancing Script', cursive; 
+	font-size: 30px;
+}
+
+/* Buttons */
+
+.button {
+	border: 5px solid #ca9462 ;
+	background-color: whitesmoke;
+	border-radius: 10px;
+	text-align: center;
+}
+
+.email-button{
+	background-color: #e3c19c;
+}
+.Shop-button {
+	border: thin solid grey;
+	text: Black;
+	width: 200px;
+	height: 50px;
+	box-align: center;
+}
+
+.Buy-button {
+border: thin solid #eab27e;
+background-color: #eab27e;
+text: white;
+font-size: 20px;
+width: 200px;
+height: 50px;
+}
+
+
+
+input {
+	border: 5px solid ;
+	background-color: whitesmoke;
+	color: #ca9462;
+	border-radius: 10px;
+	text-align: center;
+}
+
+/* Form */
 form {
-background-color: Peru; 
 border: solid;
-border-width: 2px; 
-border-radius: 8px; 
-width: 400px;
-margin-left: 5px;
-padding: 5px;
+border-width: thin; 
+border-radius: 15px; 
+width: 450px;
+margin-left: 10px;
+padding: 10px;
+background-color: burlywood;
 }
 
-.side {
-	display: flex; 
-	align-items: center; 
-	justify-content: center;
-}
+/* Text over image*/
 
-.margin{
-	margin-left: 10px;	
+.container {
+	position: relative;
+	text-align: center;
+	color: white;
 }
+	
+.centered {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+	  }
+	  
 
-.columns {
-	columns: 2 auto;
-}
 
-.flex {
-	display: flex;	
+
+/* footer */
+
+footer {
+	position: float;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
 }
 
 .footer-columns {
@@ -149,18 +274,5 @@ padding: 5px;
 }
 
 .footer-section {
-	background-color: #ca9462;
+	background-color: #e3c19c;
 }
-	
-	
-/* footer */
-
-footer {
-	position: float;
-    bottom: 0;
-    width: 100%;
-    background-color: rgb(137, 72, 30);
-    color: white;
-    text-align: center;
-}
-
