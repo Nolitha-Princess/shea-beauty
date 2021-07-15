@@ -231,6 +231,12 @@ li {
 	font-size: 30px;
 }
 
+.nav-text {
+	text-decoration: none;
+	color: black;
+}
+
+
 /* Buttons */
 
 .Sub-button {
@@ -274,6 +280,12 @@ li {
 	text-decoration: none;
 	color: white;
 }
+
+.Shop-button a:hover {
+	color:  #ca9462;
+	transition: 1s;
+	font-size: 10px;
+  }
 
 .products {
 	border: thin solid grey;
