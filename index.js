@@ -1,11 +1,19 @@
-const allProducts = document.querySelector(".Shop-button");
-const send = document.querySelector(".Sub-button");
+
+function sendBtn() { 
+    let Preference 
+
+if ( confirm("Do you want to save changes?") == true) {
+
+   alert(Preference = "Data saved successfully!");
+
+} else {
+
+    alert(Preference = "Save Cancelled!");
+}
+
+}
+
+document.getElementsByClassName("send").innerHTML = confirm;
 
 
-allProducts.addEventListener('click', function(){
-    allProducts.classList.add("products");
-});
 
-send.addEventListener("click", function(){
-    alert('Form submitted');
-});

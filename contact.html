@@ -34,6 +34,7 @@
 	
 	<body>
 		<main>
+			
 			<script src="index.js"></script>
 	<!--The header-->
 	<header>
@@ -71,7 +72,7 @@
 	<div class="content">
 	<div class="Content"><h2>Get in-touch</h2></div>
 	
-		<p class="center"> Email <stan class="script"><a id="SheaBeauty-text" href="index.html">Shea Beauty</a> </stan> via a form in this page at sales@sheabeauty.co.za <BR>
+		<p class="center"> Email <stan class="script"><a id="SheaBeauty-text" href="index.html">Shea Beauty</a></stan> via a form in this page at sales@sheabeauty.co.za <BR>
 			 or DM them to us on our Social Media Pages</p>
 	
 			<!--The content in a two columns--> 
@@ -120,11 +121,11 @@
 		<BR>	
 	<!--The form-->
 
-	<form action="/contact.html;">
+	<form>
 
 	<h2 class="text">Do drop us a line!</h2>
 	<BR>
-		
+		<div class="form">
 	Your Name (required)<BR>
 	<input name="name" type="text" placeholder="your name" required><BR>
 	
@@ -136,9 +137,11 @@
 	
 	Your message<BR>
 	<textarea cols="30" name="comments" rows="10">Message</textarea><BR>
-	
-	<button class="Sub-button" type="submit"> send </button>
-	
+	</div>
+
+<section class="send">
+	<button onclick="sendBtn()" class="Sub-button" type="submit"> send </button>
+	</section>
 	</form>
  </div>
 <BR>
