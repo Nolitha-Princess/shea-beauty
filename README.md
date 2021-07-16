@@ -59,5 +59,5 @@ Room for improvement:
 
 
 ## Contact
-Created by [Nolitha Magagula](nolithaprincess@gmail.com)
+Created by Nolitha Princess Magagula
 
