@@ -9,7 +9,7 @@
 * [Contact](contact.html)
 * [Oils](oils.html)
 * [Skin](skin.html)
-* [hair](hair.html)
+* [Hair](hair.html)
 * [Butter Tubs](tubs.html)
 
 
