@@ -3,11 +3,11 @@
 > Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
-* [Index](#index)
-* [Products](#products)
-* [About Us](#about us)
-* [Contact](#contact)
-<!-- * [License](#license) -->
+* [Index](index.html)
+* [Products](products.html)
+* [About Us](about.html)
+* [Contact](contact.html)
+
 
 
 ## General Information
