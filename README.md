@@ -19,7 +19,7 @@
 - This website will prevent customers going to the shop not knowing what products they will want to buy. It also gives them the opportunity to know more about it 
 as they can research the product before going to buy it.
 - This website allows the customers of the shop to view and see what is instore and can also press a wishlist button to let the shop know what they 
-are interedted in so that the shop can stock.
+are interested in buying so that the shop can stock.
 - This was our first website attempt exercise for girlcode learnership programme.
 
 
