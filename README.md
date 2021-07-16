@@ -16,9 +16,9 @@
 
 ## General Information
 - This a website for shea beauty.
-- This website will prevent customers going to the shop not knowing what product they will want to buy. It also gives them the opportunity to know more about it 
+- This website will prevent customers going to the shop not knowing what products they will want to buy. It also gives them the opportunity to know more about it 
 as they can research the product before going to buy it.
-- This is a website allows the customers of the shop to view and see what is instore and can also press a wishlist button to let the shop know what they 
+- This website allows the customers of the shop to view and see what is instore and can also press a wishlist button to let the shop know what they 
 are interedted in so that the shop can stock.
 - This was our for first website exercise attempt for girlcode learnership programme.
 
@@ -49,7 +49,7 @@ Project is: _no longer being worked on_. The exercise has been submitted for eva
 ## Room for Improvement
 
 Room for improvement:
-- The wishlist button can work and actually give information to the shop
+- The wishlist button can work and actually give information to the shop and show what the customers have put in their wishlist.
 - The prohect can have an instore cart which notifies the shop of what someone wants and they can just get in shop and pick it up and pay without wasting time.
 
 
