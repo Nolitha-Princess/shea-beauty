@@ -50,7 +50,7 @@ Project is: _no longer being worked on_. The exercise has been submitted for eva
 
 Room for improvement:
 - The wishlist button can work and actually give information to the shop and show what the customers have put in their wishlist.
-- The prohect can have an instore cart which notifies the shop of what someone wants and they can just get in shop and pick it up and pay without wasting time.
+- The website can have an instore cart which notifies the shop of what someone wants and they can just get in shop and pick it up and pay without wasting time.
 
 
 ## Acknowledgements
