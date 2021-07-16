@@ -1,6 +1,6 @@
 # Shea Beauty
 > This a website for a company called shea beauty where they show the shea butter products that they have in their store. 
-> Live demo [_here_](https://). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](https://nolitha-princess.github.io/shea-beauty/). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [Index](index.html)
@@ -38,7 +38,7 @@ List the ready features here:
 
 
 ## Screenshots
-(./imgages/Screenshot1.png)(./imgages/Screenshot2.png)(./imgages/Screenshot3.png)(./imgages/Screenshot4.png)
+(./images/Screenshot1.png)(./images/Screenshot2.png)(./images/Screenshot3.png)(./images/Screenshot4.png)
 
 
 ## Project Status
