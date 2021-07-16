@@ -25,7 +25,7 @@ are interedted in so that the shop can stock.
 
 
 ## Languages Used
-- html
+- HTML
 - CSS
 - Javascript
 
@@ -38,7 +38,8 @@ List the ready features here:
 
 
 ## Screenshots
-(./images/Screenshot1.png)(./images/Screenshot2.png)(./images/Screenshot3.png)(./images/Screenshot4.png)
+![Screenshot](images/Screenshot1.png) ![Screenshot](images/Screenshot2.png) ![Screenshot](images/Screenshot3.png)
+![Screenshot](images/Screenshot4.png)
 
 
 ## Project Status
