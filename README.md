@@ -1,12 +1,16 @@
 # Shea Beauty
 > This a website for a company called shea beauty where they show the shea butter products that they have in their store. 
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](https://). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [Index](index.html)
 * [Products](products.html)
 * [About Us](about.html)
 * [Contact](contact.html)
+* [Oils](oils.html)
+* [Skin](skin.html)
+* [hair](hair.html)
+* [Butter Tubs](tubs.html)
 
 
 
@@ -34,7 +38,7 @@ List the ready features here:
 
 
 ## Screenshots
-
+(./imgages/Screenshot1.png)(./imgages/Screenshot2.png)(./imgages/Screenshot3.png)(./imgages/Screenshot4.png)
 
 
 ## Project Status
@@ -46,10 +50,6 @@ Project is: _no longer being worked on_. The exercise has been submitted for eva
 Room for improvement:
 - The wishlist button can work and actually give information to the shop
 - The prohect can have an instore cart which notifies the shop of what someone wants and they can just get in shop and pick it up and pay without wasting time.
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
 
 
 ## Acknowledgements
