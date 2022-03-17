@@ -56,6 +56,7 @@ Room for improvement:
 ## Acknowledgements
 - Created by Nolitha Magagula
 - This project was inspired by my interest in shea butter and love for what it does for the skin and hair.
+- This was a project from Girlcode. 
 
 
 ## Contact
